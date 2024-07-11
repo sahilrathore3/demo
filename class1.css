@@ -1,0 +1,20 @@
+h1{
+    background-color: darkmagenta;
+}
+.momo{
+    background-color: lawngreen;
+    color: darkgray;
+}
+.chowmin{
+    background-color: fuchsia;
+}
+#abc{
+    background-color: orangered !important;
+    color: blue;
+}
+#xyz{
+    background-color: firebrick;
+}
+.pqr{
+    background-color: hotpink;
+}
